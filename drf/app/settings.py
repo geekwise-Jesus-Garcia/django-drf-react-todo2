@@ -115,4 +115,5 @@ STATIC_URL = '/static/'
 CORS_ORIGIN_WHITELIST = (
         #  'localhost:8000/'
      )
+
 django_heroku.settings(locals())
