@@ -114,7 +114,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 CORS_ORIGIN_WHITELIST = (
-         'https://3000-f36db67c-16f8-4822-84cc-3b7a98efefb1.ws-us02.gitpod.io',
+         'https://3000-bcb80748-dd7e-442b-874f-abe86a7e37fe.ws-us02.gitpod.io',
      )
 
 django_heroku.settings(locals())
